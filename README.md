@@ -1,5 +1,8 @@
 # API Roll
 
+[<img src="https://img.youtube.com/vi/GRpwVMkVmKo/0.jpg">](https://youtu.be/GRpwVMkVmKo "API Roll (Happy Father's Day) - YouTube walkthrough")
+
+
 This is a [Workers AI](https://developer.cloudflare.com/workers-ai/) application that I made for my dad for Father's Day. You can use it though.
 
 ## Using the command line wrappers
